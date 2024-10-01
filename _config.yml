@@ -1,7 +1,7 @@
 name: Verovio
 description: Music notation engraving library for MEI with MusicXML and Humdrum support and various toolkits (JavaScript, Python) 
 markdown: kramdown
-baseurl: "https://www.verovio.org"
+baseurl: "https://deltz025.github.io/VerovioClone"
 exclude: []
 
 webrick:
